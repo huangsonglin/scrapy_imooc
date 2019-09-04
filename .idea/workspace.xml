@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49fef7da-0f6a-4193-89e1-2791d5561c53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MKnet/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MKnet/spiders/classfy.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MKnet/spiders/detail.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MKnet/spiders/mk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MKnet/spiders/mk_classfy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MKnet/spiders/scrapy_imooc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -245,17 +240,6 @@
             <path>
               <item name="MKnet" type="b2602c69:ProjectViewProjectNode" />
               <item name="MKnet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MKnet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MKnet" type="462c0819:PsiDirectoryNode" />
-              <item name="MKnet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MKnet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MKnet" type="462c0819:PsiDirectoryNode" />
-              <item name="MKnet" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
